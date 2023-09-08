@@ -2,7 +2,7 @@
 // 課題1
 $name = "Azusa";
 if ($name === "Azusa"){
-    echo "私の名前は${name}です。";
+    echo "私の名前は$nameです。";
 }
 else {
     echo 'あなたの名前ではありません。';
